@@ -11,7 +11,7 @@ Buatlah spesifikasi tugas besar yang mengambil persoalan salah satu materi yang 
 - Cara pengumpulan tugas
 - Penjelasan lain yang mendukung kejelasan informasi spesifikasi tubes
 <br>
-Bonus: Spesifikasi tubes yang dibuat mengandung spesifikasi wajib dan bonus. Spesifikasi bonus yang terhitung dalam bonus ini adalah spesifikasi yang berkaitan dengan fungsionalitas tugas. Contoh yang tidak akan dihitung sebagai bonus: membuat deployment (seharusnya tanpa dideploy pun aplikasi sudah bisa berjalan), membuat video demo menggunakan aplikasi tiktok, publikasi di instagram, dsb
+Bonus: Spesifikasi tubes yang dibuat mengandung spesifikasi wajib dan bonus. Spesifikasi bonus yang terhitung dalam bonus ini adalah spesifikasi yang berkaitan dengan fungsionalitas tugas. Contoh yang tidak akan dihitung sebagai bonus: membuat deployment (seharusnya tanpa dideploy pun aplikasi sudah bisa berjalan), membuat video demo menggunakan aplikasi tiktok, publikasi di instagram, dsb. <br>
 
 Sebagai referensi, kalian bisa melihat contoh spesifikasi tubes matkul Strategi Algoritma atau mata kuliah lainnya. Batasan pengerjaan tugas ini adalah sebagai berikut
 - Beban tubes didesain untuk dikerjakan oleh 3 mahasiswa  
